@@ -1,6 +1,6 @@
 {
   "name": "@mean-expert/loopback-sdk-builder",
-  "version": "2.3.2",
+  "version": "2.3.3",
   "description": "Tool for auto-generating Software Development Kits (SDKs) for LoopBack",
   "bin": {
     "lb-sdk": "bin/lb-sdk"
@@ -99,7 +99,8 @@
     "index.js",
     "CHANGELOG.md",
     "LICENSE.md",
-    "README.md"
+    "README.md",
+    "server/storage/tones",
   ],
   "license": "MIT",
   "bugs": {
