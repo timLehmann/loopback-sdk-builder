@@ -8,7 +8,7 @@ import { Observable } from 'rxjs/Observable';
 import { LoopBackConfig } from '../shared/sdk/lb.config';
 LoopBackConfig.setBaseURL('http://localhost:3000');
 
-import * as io from 'socket.io-client';
+import { io } from 'socket.io-client';
 
 import { Orm } from '../shared/sdk/orm';
 
