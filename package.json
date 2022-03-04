@@ -100,7 +100,7 @@
     "CHANGELOG.md",
     "LICENSE.md",
     "README.md",
-    "server/storage/tones",
+    "server/storage/tones"
   ],
   "license": "MIT",
   "bugs": {
